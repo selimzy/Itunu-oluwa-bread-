@@ -12,7 +12,7 @@ An ultra-modern, high-conversion landing page for **ITUNU OLUWA BREAD**. Built f
 - **Modern Tech Stack:** Tailwind CSS for styling and AOS (Animate On Scroll) for high-end visual flow.
 
 ## 🚀 Live Demo
-[Insert your GitHub Pages link here]
+[https://selimzy.github.io/Itunu-oluwa-bread-/]
 
 ## 🛠️ Technology Stack
 - **HTML5/CSS3** - Semantic structure and custom animations.
