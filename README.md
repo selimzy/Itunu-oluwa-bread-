@@ -23,4 +23,4 @@ An ultra-modern, high-conversion landing page for **ITUNU OLUWA BREAD**. Built f
 ## 📦 Installation & Setup
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/itunu-oluwa-bread.git](https://github.com/YOUR_USERNAME/itunu-oluwa-bread.git)
+   git clone [https://selimzy.github.io/Itunu-oluwa-bread-/](https://selimzy.github.io/Itunu-oluwa-bread-/)
